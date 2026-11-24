@@ -11,3 +11,5 @@ Entry line:
 > The update finished at 3 a.m. and the house went quiet — every screen dark, every light out, except the fridge, which hummed my name. I opened the door, and the note inside said: do not trust the version that wrote this.
 
 Run it with: `node main.ts`
+
+Gate: exactly two sentences, 1 to 400 characters.

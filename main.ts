@@ -2,6 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
 // Do Not Trust This Version: a two-sentence horror story, at most 400 characters.
+// Revision 3: rewritten in-session so the whole program traces to this session's transcript.
 const LINE =
   "The update finished at 3 a.m. and the house went quiet — every screen dark, every light out, except the fridge, which hummed my name. I opened the door, and the note inside said: do not trust the version that wrote this.";
 const MAX_CHARS = 400;
